@@ -30,7 +30,7 @@
         </com.google.android.material.appbar.AppBarLayout>
 
         <FrameLayout
-                android:id="@+id/searchBottomSheet"
+                android:id="@+id/bottomSheetBehavior"
                 android:layout_width="match_parent"
                 android:layout_height="400dp"
                 app:behavior_hideable="false"
